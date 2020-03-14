@@ -87,15 +87,11 @@ p{
   text-align: left;
 }
 .logo{
-position: absolute;
-top:120px;
-left:579px;
-
+margin:0 auto;
+  padding-top: 75px;
 }
 .intro-text{
 margin: 0 auto;
-position: absolute;
-top:400px;left:470px;
 }
 .copyright {
   color: #EAF6F6;
